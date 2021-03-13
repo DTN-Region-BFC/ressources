@@ -19,8 +19,9 @@
     * [La transformation numérique de l’économie](feuille-de-route/ppun/acteurs-economiques-et-sociaux/economie.md)
     * [La transformation numérique du travail et des métiers : orientation, formation, télétravail](feuille-de-route/ppun/acteurs-economiques-et-sociaux/travail-metiers-orientation-formation-teletravail.md)
   * [L’environnement et l’aménagement durable du territoire](feuille-de-route/ppun/environnement-amenagement-durable-territoire/README.md)
-    * [Pour un numérique durable et responsable en Bourgogne-Franche-Comté](feuille-de-route/ppun/environnement-amenagement-durable-territoire/pour-un-numerique-durable-et-responsable-en-bourgogne-franche-comte.md)
+    * [Pour un numérique durable et responsable en Bourgogne-Franche-Comté](feuille-de-route/ppun/environnement-amenagement-durable-territoire/numerique-durable-et-responsable.md)
     * [Le numérique au service des territoires connectés](feuille-de-route/ppun/environnement-amenagement-durable-territoire/territoires-intelligents-durables.md)
+    * [Gouvernance et souveraineté de la donnée, un enjeu stratégique en Bourgogne-Franche-Comté](feuille-de-route/ppun/environnement-amenagement-durable-territoire/gouvernance-et-souverainete-de-la-donnee.md)
   * [Conclusion](feuille-de-route/ppun/conclusion.md)
   * [Télécharger le document](https://feuillederoute.numerique-bfc.fr/?smd_process_download=1&download_id=630)
 

@@ -12,3 +12,11 @@ Parallèlement, l’importance des initiatives numériques conduites dans les pr
 
 Enfin l’enjeu stratégique de la donnée clôt, à ce stade, le périmètre de notre Politique Publique des Usages Numériques. La Région souhaite ici répondre aux enjeux de souveraineté, de sécurité, de gouvernance mais aussi de compréhension globale de la problématique des données par les acteurs publics et privés.
 
+{% page-ref page="numerique-durable-et-responsable.md" %}
+
+{% page-ref page="territoires-intelligents-durables.md" %}
+
+{% page-ref page="gouvernance-et-souverainete-de-la-donnee.md" %}
+
+
+
