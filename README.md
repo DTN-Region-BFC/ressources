@@ -1,10 +1,10 @@
 ---
 description: >-
-  Centre de ressources en ligne pour accompagner la transformation numérique en
+  Des ressources en ligne pour accompagner la transformation numérique en
   Bourgogne-Franche-Comté
 ---
 
-# Numérique BFC
+# Ressources - Numérique BFC
 
 **Première région à adopter une** [**Politique Publique des Usages Numériques**](feuille-de-route/ppun/)**, la Bourgogne-Franche-Comté fait de la transition numérique une priorité citoyenne, économique et écologique.**
 
