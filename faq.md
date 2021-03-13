@@ -1,8 +1,12 @@
 ---
-description: Des questions ? Nos réponses !
+description: >-
+  La Foire Aux Questions : nos réponses non exhaustives à vos questions
+  fréquentes
 ---
 
 # FAQ
+
+## 
 
 ## Où trouver le guide des aides régionales ?
 
