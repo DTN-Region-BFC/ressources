@@ -104,3 +104,32 @@ Ainsi, dès 2012, la Communauté d’agglomération Grand Besançon Métropole a
   </tbody>
 </table>
 
+## Nouvelles mobilités
+
+**La Région exerce des compétences en matière de transport qui lui ont été confiées par la loi NOTRe** : transports scolaires, transport interurbain \(compétence détenue précédemment par les Départements, qui ne leur a pas été re déléguée à l’exception du Territoire de Belfort où les mobilités sont organisées par le Syndicat Mixte des Transports en Commun\). Son rôle s’est renforcé avec l’adoption de la loi d’orientation des mobilités \(LOM\) en décembre 2019. 
+
+Cheffe de file de l’interopérabilité, la **Région a mis en place dès 2007 des outils numériques d’information sur les transports en commun et solutions de mobilité alternatives à l’autosolisme**. Les bénéfices du numérique en matière de mobilité sont nombreux pour les usagers et habitants du territoire : information complète mise à jour en temps réel, meilleure visibilité de l’offre de transport.
+
+{% hint style="danger" %}
+**La situation du territoire est cependant complexe** : chacun des Départements évolue dans un contexte particulier et a mis en place une organisation particulière. 
+
+**Et les enjeux de taille** : 
+
+* Comment proposer à tous les habitants de Bourgogne-Franche-Comté une offre billettique unifiée et accessible par un point d’entrée unique ? 
+* Comment permettre aux habitants du territoire de bénéficier au mieux des innovations numériques en matière de transport ?
+{% endhint %}
+
+La technologie numérique a rendu possible le développement constant des transports covoiturés de longue distance, ouvrant la perspective de possibilités de déplacements bas carbone à un nombre croissant d’usagers. 
+
+**1.110.500 actifs occupent un emploi en Bourgogne-Franche-Comté**. Parmi eux, **710.500 ne travaillent pas dans la commune où ils habitent**. Depuis 1999, la part de ces navetteurs a augmenté de 7,4 points, davantage qu’au niveau national \(+ 5,8 points\).   
+**Seulement 5 % des navetteurs de Bourgogne-Franche-Comté prennent les transports en commun** \(y compris le bus ou le tramway\). Ils résident essentiellement en zone urbaine où l’offre en transports collectifs est plus développée \(navetteurs de moins de 10km/j\).   
+Ainsi, 10 % des actifs résidant dans une commune d’un grand pôle privilégient ce mode de transport, que ce soit pour des déplacements de courte distance au sein de l’agglomération ou pour des déplacements de plus longue distance, de centre-ville à centre-ville.
+
+Le numérique est une des conditions nécessaires au développement d’une véritable révolution des mobilités partagées de courte distance. Il s’agit de faire sauter l’un des verrous matériels qui s’oppose à la généralisation du partage des trajets de courte distance. Des expériences existent déjà et peuvent, à court terme, changer la donne des déplacements de courtes distances.
+
+### Les priorités pour la mobilité
+
+| **Les priorités** de la Politique Publique des Usages Numériques **en matière de mobilité** |
+| :--- |
+|  |
+
