@@ -16,5 +16,91 @@ L’enjeu est considérable et les problématiques multiples : nécessité d’u
 
 Une réflexion large avait été initiée dans le Morvan dès 2011, dans le cadre de l’initiative **« Pays 2.0 »**, qui mettait en place un pôle d’excellence rural consacré au numérique comme outil de revitalisation des zones rurales \(les développements et expérimentations portaient sur des domaines variés : télétravail, télémédecine, éducation, e-tourisme, e-commerce, art numérique…\). Des initiatives locales ont vu le jour sur le territoire régional. Soutenues par la Région, elles ont installé des Tiers-Lieux, espaces de télétravail, de coworking et des fablabs. Des formations aux outils numériques ont été proposées aux habitants et des accompagnements à l’utilisation du numérique aux entreprises pour faciliter leur installation.
 
+{% hint style="info" %}
+**La mise en place des territoires intelligents peut s’appuyer sur des outils qui existent sur le territoire pour faciliter l’utilisation et l’échange de tout types de données**. 
 
+C’est le cas du [**portail IDéO BFC**](https://ideo.ternum-bfc.fr), animé par le GIP Territoires Numériques BFC. Le dispositif IDéO BFC s’inscrit dans la Stratégie Régionale de la Connaissance définie par l’État, la Région et l’INSEE.
+{% endhint %}
+
+**En Bourgogne-Franche-Comté, l’échelon métropolitain et les agglomérations en général se sont saisis du sujet.** 
+
+Ainsi, dès 2012, la Communauté d’agglomération Grand Besançon Métropole a mis en place une redevance incitative pour réduire les déchets ménagers sur la base de données collectées par des puces, capteurs et systèmes de pesée installés sur les poubelles. À la suite de cette opération menée avec succès, Grand Besançon Métropole s’est engagée comme Démonstrateur Smart City 2018 afin d’optimiser les circuits de collecte et d’estimer l’évolution des recettes en fonction de plusieurs hypothèses d’évolution des comportements. 
+
+À Dijon, dans le cadre de sa stratégie « Dijon métropole intelligente et connectée - OnDijon », la métropole a inauguré en avril 2019 un poste de commandement numérique qui permet une gestion centralisée des équipements urbains connectés \(lampadaires, feux de signalisation, vidéo protection…\) dans une optique de mutualisation et de gestion optimale. Plusieurs fonctionnalités sont prévues à terme pour les citoyens, accessibles sur leurs smartphones : signalement de problèmes sur la voie publique, gestion des démarches administratives, optimisation des déplacements, etc.
+
+### Les priorités pour les territoires intelligents durables
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Les priorit&#xE9;s </b>de la Politique Publique des Usages Num&#xE9;riques <b>en mati&#xE8;re de territoires intelligents durables</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Boite &#xE0; outils num&#xE9;riques pour les communes et EPCI</b>
+        </p>
+        <p>La R&#xE9;gion soutiendra l&#x2019;acquisition de mat&#xE9;riels et outils
+          n&#xE9;cessaires &#xE0; une nouvelle &#xE9;tape dans leur transformation
+          num&#xE9;rique (mat&#xE9;riels informatique et visioconf&#xE9;rence via
+          centrale d&#x2019;achat, nouveaux services de la plateforme, financement
+          de travaux de c&#xE2;blage dans les &#xE9;coles, etc.).</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Appel &#xE0; projets territoires intelligents</b>
+        </p>
+        <p>Amplifier la d&#xE9;marche usages innovants par un appel &#xE0; projets
+          ouvert aux collectivit&#xE9;s permettant de cr&#xE9;er les infrastructures
+          (r&#xE9;seaux et d&#xE9;ploiement d&#x2019;objets connect&#xE9;s), les
+          services et les syst&#xE8;mes d&#x2019;exploitation de donn&#xE9;es n&#xE9;cessaires.
+          Elle devra accompagner en ing&#xE9;nierie les territoires les plus avanc&#xE9;s
+          &#xE0; d&#xE9;velopper un projet global et initier le d&#xE9;veloppement
+          de mod&#xE8;les de territoires intelligent ruraux.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Appui sp&#xE9;cifique aux projets de transition &#xE9;nerg&#xE9;tique</b>
+        </p>
+        <p>L&#x2019;objectif pour la R&#xE9;gion est de permettre aux territoires
+          ambitieux en mati&#xE8;re de transition &#xE9;nerg&#xE9;tique de s&#x2019;appuyer
+          sur les technologies num&#xE9;riques pour mieux mesurer et atteindre leurs
+          objectifs en mati&#xE8;re consommation &#xE9;nerg&#xE9;tique. La R&#xE9;gion
+          soutiendra particuli&#xE8;rement les projets de territoires &#xE0; &#xE9;nergie
+          positive (TEPOS) connect&#xE9;s, Smartgrid, contrat de transition &#xE9;nerg&#xE9;tique
+          (CTE) num&#xE9;rique.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>D&#xE9;velopper l&#x2019;implantation de tiers-lieux sur le territoire r&#xE9;gional</b>
+        </p>
+        <p>La R&#xE9;gion amplifie d&#xE8;s la fin 2020 son action pour le d&#xE9;veloppement
+          et la consolidation de tiers-lieux sur le territoire r&#xE9;gional. Elle
+          mobilisera un volet du plan de relance &#xE0; cette fin.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Renforcer le soutien au bloc communal</b>
+        </p>
+        <p>Bras arm&#xE9; de la R&#xE9;gion dans sa politique de soutien aux communes
+          du territoire en mati&#xE8;re num&#xE9;rique, le GIP Territoires Num&#xE9;riques
+          BFC, ind&#xE9;pendamment ou au sein de l&#x2019;agence r&#xE9;gionale du
+          num&#xE9;rique et de l&#x2019;intelligence artificielle, voit son action
+          renforc&#xE9;e.
+          <br />Le projet TerNum 2030 du GIP Territoires Num&#xE9;riques BFC anticipe
+          d&#xE9;j&#xE0; les besoins et attentes du bloc communal en mati&#xE8;re
+          num&#xE9;rique. Il compl&#xE8;te sa mission initiale, n&#xE9;e autour de
+          la commande publique, par des accompagnements d&#xE9;di&#xE9;s aux nouveaux
+          enjeux de la relation usagers et de l&#x2019;utilisation toujours plus
+          grande du num&#xE9;rique par les collectivit&#xE9;s elles-m&#xEA;mes.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
