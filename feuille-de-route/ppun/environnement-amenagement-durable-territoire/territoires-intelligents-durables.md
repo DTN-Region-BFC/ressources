@@ -129,7 +129,78 @@ Le numérique est une des conditions nécessaires au développement d’une vér
 
 ### Les priorités pour la mobilité
 
-| **Les priorités** de la Politique Publique des Usages Numériques **en matière de mobilité** |
-| :--- |
-|  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Les priorit&#xE9;s </b>de la Politique Publique des Usages Num&#xE9;riques <b>en mati&#xE8;re de mobilit&#xE9;</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Syst&#xE8;me d&#x2019;information multimodale (SIM) r&#xE9;gional Mobigo</b>
+        </p>
+        <p>La R&#xE9;gion a d&#xE9;cid&#xE9; d&#x2019;&#xE9;tendre le p&#xE9;rim&#xE8;tre
+          fonctionnel de son outil num&#xE9;rique d&#x2019;information multimodale
+          sur l&#x2019;ensemble du territoire. Il permettra au voyageur de r&#xE9;aliser
+          les actes constitutifs de son voyage, avant, pendant et apr&#xE8;s son
+          trajet. Bien au-del&#xE0; d&#x2019;un dispositif institutionnel restituant
+          simplement les offres de mobilit&#xE9; th&#xE9;oriques disponibles, il
+          constitue un levier de commercialisation et de promotion des offres de
+          mobilit&#xE9; &#xE0; l&#x2019;&#xE9;chelle du territoire, et du r&#xE9;seau
+          r&#xE9;gional. Proposer l&#x2019;offre de TAD (transport &#xE0; la demande)
+          en r&#xE9;servation dans le SIM.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Acquisition par la R&#xE9;gion d&#x2019;un Syst&#xE8;me de Gestion et d&#x2019;Optimisation d&#x2019;un R&#xE9;seau de Transport Scolaire (SGORTS)</b>
+        </p>
+        <p>La mise en &#x153;uvre d&#x2019;un syst&#xE8;me de gestion et d&#x2019;optimisation
+          d&#x2019;un r&#xE9;seau de transport scolaire permet de collecter les donn&#xE9;es
+          n&#xE9;cessaires &#xE0; une meilleure qualit&#xE9; de service apport&#xE9;e
+          aux &#xE9;l&#xE8;ves et plus largement, aux familles de Bourgogne-Franche-Comt&#xE9;.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>D&#xE9;veloppement d&#x2019;une application de covoiturage</b>
+        </p>
+        <p>Dans le cadre de la politique r&#xE9;gionale de soutien aux usages num&#xE9;riques
+          innovants : mise en place d&#x2019;une application de covoiturage pour
+          accompagner financi&#xE8;rement des secteurs d&#xE9;pourvus ou peu pourvus
+          de solutions de covoiturage : 6 lignes exp&#xE9;rimentales ont &#xE9;t&#xE9;
+          cr&#xE9;&#xE9;es via une application o&#xF9; les conducteurs sont subventionn&#xE9;s
+          &#xE0; hauteur de 0,10 &#x20AC; du Km r&#xE9;alis&#xE9; + 1 &#x20AC; par
+          passager suppl&#xE9;mentaire et les passagers payent uniquement le prix
+          d&#x2019;un trajet en car, soit 1,50 &#x20AC;.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Mise en place d&#x2019;un dispositif billettique commerciale unifi&#xE9;</b>
+        </p>
+        <p>Unifier et moderniser la billettique sur r&#xE9;seau r&#xE9;gional Mobigo
+          pour les modes routier et ferroviaire pour offrir des r&#xE9;ponses aux
+          besoins des voyageurs qu&#x2019;ils soient occasionnels ou r&#xE9;guliers.
+          Disposer d&#x2019;outils performants pour am&#xE9;liorer l&#x2019;offre
+          tout en maitrisant les investissements gr&#xE2;ce &#xE0; la connaissance
+          des usages num&#xE9;rique.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Mise &#xE0; disposition en open data des donn&#xE9;es du SIM</b>
+        </p>
+        <p>Dans la perspective de l&#x2019;ouverture des donn&#xE9;es de son SIM
+          actuel et de la version &#xE0; venir, la R&#xE9;gion a souhait&#xE9; int&#xE9;grer
+          dans une nouvelle version de Mobigo la possibilit&#xE9; de mise &#xE0;
+          disposition de ses donn&#xE9;es en open data par le biais d&#x2019;une
+          plateforme d&#xE9;di&#xE9;e. Cela concerne dans un premier temps les donn&#xE9;es
+          de transport, et &#xE0; terme les donn&#xE9;es de distribution.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
