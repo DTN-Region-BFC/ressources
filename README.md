@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bienvenue sur l'outil de partage de ressources en ligne de la Délégation à la
+  Bienvenue sur l'outil de partage de ressources de la Délégation à la
   Transformation Numérique du conseil régional de Bourgogne-Franche-Comté.
 ---
 
