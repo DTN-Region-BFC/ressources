@@ -1,10 +1,10 @@
 ---
 description: >-
   Bienvenue sur l'outil de partage de ressources en ligne de la Délégation à la
-  Transformation Numérique du conseil régional de Bourgogne-Franche-Comté !
+  Transformation Numérique du conseil régional de Bourgogne-Franche-Comté.
 ---
 
-# Accueil
+# Bienvenue
 
 **Première région à adopter une** [**Politique Publique des Usages Numériques**](feuille-de-route/ppun/)**, la Bourgogne-Franche-Comté fait de la transition numérique une priorité citoyenne, économique et écologique.**
 

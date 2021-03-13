@@ -4,13 +4,14 @@ description: Des questions ? Nos réponses !
 
 # FAQ
 
-## Can I become who I want to be?
+## Où trouver le guide des aides régionales ?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Le guide des aides régionales de la Région Bourgogne-Franche-Comté est disponible à cette adresse : [https://www.bourgognefranchecomte.fr/guide-des-aides](https://www.bourgognefranchecomte.fr/guide-des-aides)
 
-## Have you had a chance to answer the previous question?
+## Qu'est ce que c'est que la Politique Publique des Usages Numériques ?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+C"est la feuille de route de la Région Bourgogne-Franche-Comté pour accompagner les usages numériques qui a été adoptée par les élus régionaux en octobre 2020.   
+Consultez-la en ligne : [https://www.numerique-bfc.fr/ressources/feuille-de-route/ppun](https://www.numerique-bfc.fr/ressources/feuille-de-route/ppun)
 
 
 

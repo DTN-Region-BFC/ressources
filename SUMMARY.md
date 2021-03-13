@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Accueil](README.md)
+* [Bienvenue](README.md)
 * [FAQ](faq.md)
 
 ## Feuille de route
