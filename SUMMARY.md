@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ressources - Numérique BFC](README.md)
+* [Accueil](README.md)
 * [FAQ](faq.md)
 
 ## Feuille de route
