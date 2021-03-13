@@ -1,6 +1,6 @@
 # Transformation numérique en Bourgogne-Franche-Comté
 
-**Première région à adopter une** [**Politique Publique des Usages Numériques**](feuille-de-route/ppun/)**, la** [**Bourgogne-Franche-Comté**](https://bourgognefranchecomte.fr) **fait de la transition numérique une priorité citoyenne, économique et écologique.**
+**Première région à adopter une** [**Politique Publique des Usages Numériques**](feuille-de-route/ppun/)**, la Bourgogne-Franche-Comté fait de la transition numérique une priorité citoyenne, économique et écologique.**
 
 La révolution numérique bouleverse le quotidien des citoyens, des entreprises et des administrations. Dans une région essentiellement rurale, où 97 % des communes comptent moins de 3.500 habitants, l’arrivée prochaine de la fibre optique va accélérer ces changements, faisant des usages numériques la question majeure de la décennie qui s’ouvre.
 
@@ -17,4 +17,8 @@ Enfin la question de la donnée impose des réponses claires en termes de souver
 Au final notre ambition est bien de faire de la Bourgogne-Franche-Comté la première région de France à porter un « service public du numérique » au service des citoyens, de l’économie et de la planète.
 
 ![La PPUN a &#xE9;t&#xE9; adopt&#xE9;e en s&#xE9;ance pl&#xE9;ni&#xE8;re en octobre 2020](.gitbook/assets/ppun.png)
+
+{% hint style="info" %}
+Cet espace de ressources en ligne est maintenu par l'équipe de la Délégation à la Transformation Numérique du [conseil régional de Bourgogne-Franche-Comté](https://www.bourgognefranchecomte.fr).
+{% endhint %}
 
