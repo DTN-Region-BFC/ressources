@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Transformation numérique en Bourgogne-Franche-Comté](README.md)
+* [Numérique BFC](README.md)
 
 ## Feuille de route
 
