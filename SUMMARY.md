@@ -30,6 +30,7 @@
 * [SCORAN BFC](strategie-regionale/scoran-bfc/README.md)
   * [Enjeu n°1 – Accélérer le déploiement des infrastructures numériques](strategie-regionale/scoran-bfc/enjeu-n-1-accelerer-le-deploiement-des-infrastructures-numeriques.md)
   * [Enjeu n° 2 – Accompagner la transformation numérique du territoire](strategie-regionale/scoran-bfc/enjeu-n-2-accompagner-la-transformation-numerique-du-territoire.md)
+  * [Enjeu n°3 – Innover par la donnée](strategie-regionale/scoran-bfc/enjeu-n-3-innover-par-la-donnee.md)
 
 ## Ressources
 
