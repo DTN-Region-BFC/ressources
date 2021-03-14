@@ -17,7 +17,7 @@ La première SCORAN à l’échelle Bourgogne-Franche-Comté s’articule égale
 * Accompagner, faciliter, accélérer le déploiement et le développement des usages et leur appropriation par tous les acteurs ;
 * Faire émerger des leaders nationaux dans le domaine des services numériques.
 
-Le contenu de cette stratégie a été coconstruit avec les entreprises, associations, collectivités volontaires et engagés dans la transition numérique de la Bourgogne-Franche-Comté. Ainsi, l’élaboration de la stratégie a mobilisé plus de 1000 contributeurs collectivités, entreprises, association, chambres consulaires, syndicats,…. sur l’ensemble des 8 départements, notamment dans le cadre de cinq ateliers thématiques collaboratifs organisés durant le mois de janvier 2019, des 11 ateliers thématiques organisés en mars et avril 2019 et de 2 concertations ouvertes en ligne.
+Le contenu de cette stratégie a été co-construit avec les entreprises, associations, collectivités volontaires et engagés dans la transition numérique de la Bourgogne-Franche-Comté. Ainsi, l’élaboration de la stratégie a mobilisé plus de 1000 contributeurs collectivités, entreprises, association, chambres consulaires, syndicats,…. sur l’ensemble des 8 départements, notamment dans le cadre de cinq ateliers thématiques collaboratifs organisés durant le mois de janvier 2019, des 11 ateliers thématiques organisés en mars et avril 2019 et de 2 concertations ouvertes en ligne.
 
 ➡️ [_Voir la **vidéo d'introduction des ateliers participatifs** de janvier 2019_](https://vimeo.com/307492202)\_\_
 
