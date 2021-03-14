@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Bienvenue](README.md)
-* [FAQ](faq.md)
 
 ## Feuille de route
 
@@ -25,4 +24,8 @@
     * [Gouvernance et souveraineté de la donnée, un enjeu stratégique en Bourgogne-Franche-Comté](feuille-de-route/ppun/environnement-amenagement-durable-territoire/gouvernance-et-souverainete-de-la-donnee.md)
   * [Conclusion](feuille-de-route/ppun/conclusion.md)
   * [Télécharger le document](https://feuillederoute.numerique-bfc.fr/?smd_process_download=1&download_id=630)
+
+## Ressources
+
+* [FAQ](ressources/faq.md)
 
