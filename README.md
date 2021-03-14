@@ -1,7 +1,7 @@
 ---
 description: >-
-  Bienvenue sur l'espace de ressources de la Délégation à la Transformation
-  Numérique du conseil régional de Bourgogne-Franche-Comté.
+  Bienvenue sur l'espace de ressources partagées de la Délégation à la
+  Transformation Numérique du conseil régional de Bourgogne-Franche-Comté.
 ---
 
 # Bienvenue
