@@ -1,8 +1,7 @@
 ---
 description: >-
-  Démarche collective pour passer d’une logique d’infrastructures à une logique
-  de développement des usages & accompagner la transformation numérique du
-  territoire et des acteurs à court et moyen termes
+  La SCORAN BFC fixe un cap pour le développement du Numérique en
+  Bourgogne-Franche-Comté
 ---
 
 # SCORAN BFC
@@ -16,6 +15,8 @@ La première SCORAN à l’échelle Bourgogne-Franche-Comté s’articule égale
 * Couvrir 100% du territoire en très haut débit fixe et mobile ;
 * Accompagner, faciliter, accélérer le déploiement et le développement des usages et leur appropriation par tous les acteurs ;
 * Faire émerger des leaders nationaux dans le domaine des services numériques.
+
+> La SCORAN BFC, c’est une démarche collective, pour passer d’une logique d’infrastructures à une logique de développement des usages et ainsi accompagner la transformation numérique du territoire et des acteurs, à court et moyen termes.
 
 Le contenu de cette stratégie a été co-construit avec les entreprises, associations, collectivités volontaires et engagés dans la transition numérique de la Bourgogne-Franche-Comté. Ainsi, l’élaboration de la stratégie a mobilisé plus de 1.000 contributeurs collectivités, entreprises, association, chambres consulaires, syndicats,…. sur l’ensemble des 8 départements, notamment dans le cadre de cinq ateliers thématiques collaboratifs organisés durant le mois de janvier 2019, des 11 ateliers thématiques organisés en mars et avril 2019 et de 2 concertations ouvertes en ligne.
 
