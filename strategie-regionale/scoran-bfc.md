@@ -1,12 +1,8 @@
----
-description: Stratégie de Cohérence pour l’Aménagement Numérique en Bourgogne-Franche-Comté
----
-
 # SCORAN BFC
 
-![](../.gitbook/assets/scoran-bfc.png)
-
 La **Stratégie de Cohérence pour l’Aménagement Numérique en Bourgogne-Franche-Comté** \(SCORAN BFC\) constitue le document de référence stratégique en matière de développement numérique pour l’ensemble des acteurs territoriaux de la région. La vocation de ce document est d’anticiper et d’accompagner les changements induits par les enjeux de numérisation de l’économie, de la société et des territoires et de fixer des perspectives à court, moyen \(5 ans\) et plus long terme \(10-15 ans\).
+
+![](../.gitbook/assets/scoran-bfc.png)
 
 La première SCORAN à l’échelle Bourgogne-Franche-Comté s’articule également avec le volet numérique du SRADDET et vise à atteindre trois objectifs conformes à la stratégie de mandat sur le numérique :
 
