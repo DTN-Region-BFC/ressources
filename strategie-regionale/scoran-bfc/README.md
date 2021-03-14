@@ -8,7 +8,7 @@ description: >-
 
 La **Stratégie de Cohérence pour l’Aménagement Numérique en Bourgogne-Franche-Comté** \(SCORAN BFC\) constitue le document de référence stratégique en matière de développement numérique pour l’ensemble des acteurs territoriaux de la région. La vocation de ce document est d’anticiper et d’accompagner les changements induits par les enjeux de numérisation de l’économie, de la société et des territoires et de fixer des perspectives à court, moyen \(5 ans\) et plus long terme \(10-15 ans\).
 
-![](../.gitbook/assets/scoran-bfc.png)
+![](../../.gitbook/assets/scoran-bfc.png)
 
 La première SCORAN à l’échelle Bourgogne-Franche-Comté s’articule également avec le volet numérique du SRADDET et vise à atteindre trois objectifs conformes à la stratégie de mandat sur le numérique :
 
@@ -40,13 +40,13 @@ Le cœur de la stratégie de la SCORAN BFC, au regard de ces trois principes fon
 
 _**La SCORAN BFC a été adoptée en séance planière par les élus régionaux en juin 2019 et elle permettra de définir un cadre commun aux acteurs du territoire régional afin de définir des politiques publiques numériques applicables à l’ensemble de la région.**_
 
-{% file src="../.gitbook/assets/scoran-bfc-presentation.pdf" caption="Présentation" %}
+{% file src="../../.gitbook/assets/scoran-bfc-presentation.pdf" caption="Présentation" %}
 
-{% file src="../.gitbook/assets/scoran-bfc\_document\_06-2019.pdf" caption="Document" %}
+{% file src="../../.gitbook/assets/scoran-bfc\_document\_06-2019.pdf" caption="Document" %}
 
-{% file src="../.gitbook/assets/scoran-bfc\_annexes\_06-2019.pdf" caption="Annexes" %}
+{% file src="../../.gitbook/assets/scoran-bfc\_annexes\_06-2019.pdf" caption="Annexes" %}
 
-{% file src="../.gitbook/assets/scoran-bfc-flyer-a5-06-20191.pdf" caption="Plaquette" %}
+{% file src="../../.gitbook/assets/scoran-bfc-flyer-a5-06-20191.pdf" caption="Plaquette" %}
 
 {% hint style="info" %}
 Dans un souci de fournir des éléments de réflexion à l’ensemble de la région, la SCORAN BFC s’est attachée à proposer des pistes d’actions pour chacune des 15 orientations. Issues d’une démarche collaborative et co-construite \(notamment au travers des cinq ateliers thématiques et d’une consultation en ligne\), ces pistes d’actions représentent la volonté conjointe de la Préfecture de région et du Conseil régional de Bourgogne-Franche- Comté de proposer des illustrations concrètes pour les orientations de la SCORAN BFC. Elles constituent dès lors des propositions de travail pour l’élaboration des futures politiques publiques numériques en Bourgogne-Franche-Comté dont l’ensemble des partenaires pourront s’emparer. Elles sont présentées en annexes de la SCORAN BFC.

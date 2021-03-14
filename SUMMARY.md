@@ -27,7 +27,8 @@
 
 ## Stratégie régionale
 
-* [SCORAN BFC](strategie-regionale/scoran-bfc.md)
+* [SCORAN BFC](strategie-regionale/scoran-bfc/README.md)
+  * [Enjeu n°1 – Accélérer le déploiement des infrastructures numériques](strategie-regionale/scoran-bfc/enjeu-n-1-accelerer-le-deploiement-des-infrastructures-numeriques.md)
 
 ## Ressources
 
