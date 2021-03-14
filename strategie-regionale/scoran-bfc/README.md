@@ -40,11 +40,3 @@ Le cœur de la stratégie de la SCORAN BFC, au regard de ces trois principes fon
 
 _**La SCORAN BFC a été adoptée en séance plénière par les élus régionaux en juin 2019. Elle permet de définir un cadre commun aux acteurs du territoire régional afin de définir des politiques publiques numériques applicables à l’ensemble de la région.**_
 
-{% file src="../../.gitbook/assets/scoran-bfc-presentation.pdf" caption="Présentation" %}
-
-{% file src="../../.gitbook/assets/scoran-bfc\_document\_06-2019.pdf" caption="Document" %}
-
-{% file src="../../.gitbook/assets/scoran-bfc\_annexes\_06-2019.pdf" caption="Annexes" %}
-
-{% file src="../../.gitbook/assets/scoran-bfc-flyer-a5-06-20191.pdf" caption="Plaquette" %}
-
