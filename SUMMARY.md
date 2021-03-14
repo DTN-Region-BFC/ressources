@@ -27,5 +27,5 @@
 
 ## Ressources
 
-* [FAQ](ressources/faq.md)
+* [Questions fréquentes](ressources/faq.md)
 
