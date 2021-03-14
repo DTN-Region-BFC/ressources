@@ -24,5 +24,16 @@ Défi n°3
 | Orientation 3.**8** | Améliorer la vie éducative et professionnelle |
 | Orientation 3.**9** | Améliorer la vie citoyenne et l’épanouissement personnel |
 
+{% hint style="info" %}
+Défi n°4  
+**Renforcer l’attractivité et le développement du territoire par le numérique**
+{% endhint %}
+
+|  |  |
+| :--- | :--- |
+| Orientation 4.**10** | Accroître la compétitivité de la filière numérique régionale |
+| Orientation 4.**11** | Accélérer la transformation numérique de tous les acteurs \(collectivités, entreprises, associations…\) |
+| Orientation 4.**12** | Faire du numérique un atout pour la ruralité |
+
 
 
