@@ -70,3 +70,8 @@ Un accès mobile et fixe pour tous les usagers du territoire est un préalable p
   </tbody>
 </table>
 
+{% hint style="warning" %}
+_Dans un souci de fournir des éléments de réflexion à l’ensemble de la région, la SCORAN BFC s’est attachée à proposer des pistes d’actions pour chacune des 15 orientations. Issues d’une démarche collaborative et co-construite, ces pistes d’actions représentent la volonté conjointe de la Préfecture de région et du Conseil régional de Bourgogne-Franche- Comté de proposer des illustrations concrètes pour les orientations de la SCORAN BFC.   
+Elles constituent dès lors des propositions de travail pour l’élaboration des futures politiques publiques numériques en Bourgogne-Franche-Comté dont l’ensemble des partenaires pourront s’emparer. Elles sont présentées en annexes de la SCORAN BFC._
+{% endhint %}
+

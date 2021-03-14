@@ -48,7 +48,3 @@ _**La SCORAN BFC a été adoptée en séance planière par les élus régionaux 
 
 {% file src="../../.gitbook/assets/scoran-bfc-flyer-a5-06-20191.pdf" caption="Plaquette" %}
 
-{% hint style="info" %}
-Dans un souci de fournir des éléments de réflexion à l’ensemble de la région, la SCORAN BFC s’est attachée à proposer des pistes d’actions pour chacune des 15 orientations. Issues d’une démarche collaborative et co-construite \(notamment au travers des cinq ateliers thématiques et d’une consultation en ligne\), ces pistes d’actions représentent la volonté conjointe de la Préfecture de région et du Conseil régional de Bourgogne-Franche- Comté de proposer des illustrations concrètes pour les orientations de la SCORAN BFC. Elles constituent dès lors des propositions de travail pour l’élaboration des futures politiques publiques numériques en Bourgogne-Franche-Comté dont l’ensemble des partenaires pourront s’emparer. Elles sont présentées en annexes de la SCORAN BFC.
-{% endhint %}
-
