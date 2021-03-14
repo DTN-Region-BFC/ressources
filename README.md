@@ -22,11 +22,11 @@ La troisième priorité est celle d’un numérique éco-responsable, d’un num
 
 Enfin la question de la donnée impose des réponses claires en termes de souveraineté, de sécurité et de protection. Nous plaçons le sujet de la donnée, dans une logique d’intérêt général et de protection des libertés individuelles, au cœur de nos priorités numériques.
 
+Au final notre ambition est bien de faire de la Bourgogne-Franche-Comté la première région de France à porter un « service public du numérique » au service des citoyens, de l’économie et de la planète.
+
 {% page-ref page="feuille-de-route/ppun/" %}
 
 
-
-Au final notre ambition est bien de faire de la Bourgogne-Franche-Comté la première région de France à porter un « service public du numérique » au service des citoyens, de l’économie et de la planète.
 
 {% hint style="info" %}
 Cet espace de ressources en ligne est maintenu par l'équipe de la Délégation à la Transformation Numérique du [conseil régional de Bourgogne-Franche-Comté](https://www.bourgognefranchecomte.fr).
