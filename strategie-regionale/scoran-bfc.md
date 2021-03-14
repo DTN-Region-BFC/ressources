@@ -1,3 +1,10 @@
+---
+description: >-
+  Démarche collective pour passer d’une logique d’infrastructures à une logique
+  de développement des usages & accompagner la transformation numérique du
+  territoire et des acteurs à court et moyen termes
+---
+
 # SCORAN BFC
 
 La **Stratégie de Cohérence pour l’Aménagement Numérique en Bourgogne-Franche-Comté** \(SCORAN BFC\) constitue le document de référence stratégique en matière de développement numérique pour l’ensemble des acteurs territoriaux de la région. La vocation de ce document est d’anticiper et d’accompagner les changements induits par les enjeux de numérisation de l’économie, de la société et des territoires et de fixer des perspectives à court, moyen \(5 ans\) et plus long terme \(10-15 ans\).
@@ -12,13 +19,15 @@ La première SCORAN à l’échelle Bourgogne-Franche-Comté s’articule égale
 
 Le contenu de cette stratégie a été coconstruit avec les entreprises, associations, collectivités volontaires et engagés dans la transition numérique de la Bourgogne-Franche-Comté. Ainsi, l’élaboration de la stratégie a mobilisé plus de 1000 contributeurs collectivités, entreprises, association, chambres consulaires, syndicats,…. sur l’ensemble des 8 départements, notamment dans le cadre de cinq ateliers thématiques collaboratifs organisés durant le mois de janvier 2019, des 11 ateliers thématiques organisés en mars et avril 2019 et de 2 concertations ouvertes en ligne.
 
-La SCORAN BFC porte l’ambition de **faire de la région un territoire leader dans le domaine du numérique** et singulièrement à travers le développement des usages et de l’inclusion. 
+➡️ [_Voir la **vidéo d'introduction des ateliers participatifs** de janvier 2019_](https://vimeo.com/307492202)\_\_
 
-Cette ambition collective est guidée par trois grands principes fondateurs :
+{% hint style="success" %}
+La SCORAN BFC porte l’ambition de **faire de la région un territoire leader dans le domaine du numérique** et singulièrement à travers le développement des usages et de l’inclusion. Cette ambition collective est guidée par trois grands principes fondateurs :
 
 * **Éthique** : L’éthique, acte de responsabilité, d’engagement et d’intégrité, doit rester un préalable à la création de nouveaux usages et services numériques sur le territoire.
 * **Inclusive** : Afin d’accompagner les citoyens en difficulté avec le numérique et leur garantir un égal accès au numérique, l’élaboration de la stratégie de transformation numérique du territoire devra être celle d’une stratégie pour un numérique inclusif.
 * **Responsable** : La transition énergétique vers une économie décarbonée s’impose comme un enjeu majeur du territoire. L’innovation numérique représente une opportunité pour la Bourgogne-Franche-Comté de tendre vers un développement durable et une meilleure gestion des ressources.
+{% endhint %}
 
 Le cœur de la stratégie de la SCORAN BFC, au regard de ces trois principes fondateurs, se structure autour de trois enjeux stratégiques qui cadreront l’action des partenaires régionaux :
 
@@ -30,7 +39,7 @@ Le cœur de la stratégie de la SCORAN BFC, au regard de ces trois principes fon
 
 _**La SCORAN BFC permettra de définir un cadre commun aux acteurs du territoire régional afin de définir des politiques publiques numériques applicables à l’ensemble de la région.**_
 
-[Voir la vidéo d'introduction des ateliers participatifs de la SCORAN BFC de janvier 2019](https://vimeo.com/307492202)
+_\*\*\*\*_
 
 {% file src="../.gitbook/assets/scoran-bfc-presentation.pdf" caption="Présentation" %}
 
