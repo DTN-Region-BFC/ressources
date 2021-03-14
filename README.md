@@ -10,7 +10,7 @@ description: >-
 
 ![](.gitbook/assets/illustration-numerique.png)
 
-La révolution numérique bouleverse le quotidien des citoyens, des entreprises et des administrations. Dans une région essentiellement rurale, où 97 % des communes comptent moins de 3.500 habitants, l’arrivée prochaine de la fibre optique va accélérer ces changements, faisant des usages numériques la question majeure de la décennie qui s’ouvre.
+**La révolution numérique bouleverse le quotidien des citoyens, des entreprises et des administrations**. **Dans une région essentiellement rurale, où 97 % des communes comptent moins de 3.500 habitants, l’arrivée prochaine de la fibre optique va accélérer ces changements, faisant des usages numériques la question majeure de la décennie qui s’ouvre.**
 
 La crise sanitaire qui frappe le monde depuis 2020 a amplifié les besoins, les attentes et les pratiques numériques des Français. Télétravail, télémédecine, relations sociales, commerce, enseignement, recherche, loisirs… l’accélération des pratiques numériques est fulgurante. Et dans le même temps la situation de ceux qui n’ont pas accès à internet Très Haut Débit ou qui ne sont pas à l’aise avec le numérique s’est aggravée. Le numérique est un nouveau facteur d’inégalités économiques et sociales contre lesquelles la Région se mobilise.
 
@@ -22,7 +22,7 @@ La troisième priorité est celle d’un numérique éco-responsable, d’un num
 
 Enfin la question de la donnée impose des réponses claires en termes de souveraineté, de sécurité et de protection. Nous plaçons le sujet de la donnée, dans une logique d’intérêt général et de protection des libertés individuelles, au cœur de nos priorités numériques.
 
-Au final notre ambition est bien de faire de la Bourgogne-Franche-Comté la première région de France à porter un « service public du numérique » au service des citoyens, de l’économie et de la planète.
+**Au final notre ambition est bien de faire de la Bourgogne-Franche-Comté la première région de France à porter un « service public du numérique » au service des citoyens, de l’économie et de la planète.**
 
 {% page-ref page="feuille-de-route/ppun/" %}
 
