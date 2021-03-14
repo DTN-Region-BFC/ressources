@@ -12,7 +12,7 @@ La **Stratégie de Cohérence pour l’Aménagement Numérique en Bourgogne-Fran
 
 La première SCORAN à l’échelle Bourgogne-Franche-Comté s’articule également avec le volet numérique du SRADDET et vise à atteindre trois objectifs conformes à la stratégie de mandat sur le numérique :
 
-* Couvrir 100% du territoire en très haut débit fixe et mobile ;
+* Couvrir 100 % du territoire en très haut débit fixe et mobile ;
 * Accompagner, faciliter, accélérer le déploiement et le développement des usages et leur appropriation par tous les acteurs ;
 * Faire émerger des leaders nationaux dans le domaine des services numériques.
 
@@ -38,7 +38,7 @@ Le cœur de la stratégie de la SCORAN BFC, au regard de ces trois principes fon
 
 À chacun de ces enjeux stratégiques sont associés des défis que la Région Bourgogne-Franche-Comté devra relever pour une transformation numérique uniforme de son territoire, et des orientations qui constituent des sujets-clés, des amorces stratégiques pour une politique publique ambitieuse en faveur du numérique.
 
-_**La SCORAN BFC a été adoptée en séance planière par les élus régionaux en juin 2019 et elle permettra de définir un cadre commun aux acteurs du territoire régional afin de définir des politiques publiques numériques applicables à l’ensemble de la région.**_
+_**La SCORAN BFC a été adoptée en séance plénière par les élus régionaux en juin 2019 et elle permet de définir un cadre commun aux acteurs du territoire régional afin de définir des politiques publiques numériques applicables à l’ensemble de la région.**_
 
 {% file src="../../.gitbook/assets/scoran-bfc-presentation.pdf" caption="Présentation" %}
 
