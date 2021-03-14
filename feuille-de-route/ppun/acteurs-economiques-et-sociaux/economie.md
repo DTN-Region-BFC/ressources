@@ -48,10 +48,10 @@ La filière numérique régionale bénéficierait grandement d’une structurati
           sur un &#xE9;tat des lieux de la fili&#xE8;re, des emplois et des formations.
           30 fiches-action sont d&#xE9;clin&#xE9;es selon les quatre priorit&#xE9;s
           :
-          <br />- Structurer l&#x2019;&#xE9;cosyst&#xE8;me.
-          <br />- Attirer et faire rayonner la fili&#xE8;re num&#xE9;rique r&#xE9;gionale.
-          <br
-          />- Accompagner dans la continuit&#xE9; les chefs d&#x2019;entreprises.
+          <br />- Structurer l&#x2019;&#xE9;cosyst&#xE8;me ;
+          <br />- Attirer et faire rayonner la fili&#xE8;re num&#xE9;rique r&#xE9;gionale
+          ;
+          <br />- Accompagner dans la continuit&#xE9; les chefs d&#x2019;entreprises ;
           <br
           />- Anticiper et trouver les comp&#xE9;tences.
           <br />Le suivi de la mise en &#x153;uvre du contrat est assur&#xE9; par un Comit&#xE9;
