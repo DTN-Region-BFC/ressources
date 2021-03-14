@@ -1,3 +1,7 @@
+---
+description: SCORAN BFC
+---
+
 # Enjeu n°1 – Accélérer le déploiement des infrastructures numériques
 
 Un accès mobile et fixe pour tous les usagers du territoire est un préalable pour un développement pérenne des usages et services numériques. Cette ambition s’inscrit dans le cadre national de développement des réseaux et constituera un socle pour l’émergence de projets innovants sur le territoire.

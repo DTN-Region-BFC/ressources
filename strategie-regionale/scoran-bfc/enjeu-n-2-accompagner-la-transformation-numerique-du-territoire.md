@@ -1,3 +1,7 @@
+---
+description: SCORAN BFC
+---
+
 # Enjeu n° 2 – Accompagner la transformation numérique du territoire
 
 La transformation numérique de la Bourgogne-Franche-Comté répond à trois enjeux complémentaires. Le premier, est centré sur l’accompagnement du citoyen et la structuration de l’offre de médiation et d’inclusion numérique. Le second, établit les outils numériques nécessaires pour faciliter la vie des citoyens. L’innovation numérique permet de répondre aux besoins de tous les usagers et de repenser la mobilité, l’éducation, les modes de travail, le tourisme, etc. Le dernier enjeu, prône une approche territoriale, et fait de l’attractivité du territoire, un point-clé de développement pour le numérique soit un atout pour la réalité.

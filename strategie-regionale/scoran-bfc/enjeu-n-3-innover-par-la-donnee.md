@@ -1,3 +1,7 @@
+---
+description: SCORAN BFC
+---
+
 # Enjeu n°3 – Innover par la donnée
 
 La donnée représente pour le territoire une opportunité dans l’émergence de nouveaux services plus efficaces et plus efficients. Dans un contexte d’ouverture progressive des données, la mise en conformité avec le cadre règlementaire national et l’acculturation des tous les acteurs aux enjeux de la donnée semble nécessaire. Ce nouvel élan favorisera ainsi les stratégies de territoires intelligents.
