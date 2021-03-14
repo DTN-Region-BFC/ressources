@@ -23,7 +23,7 @@
     * [Le numérique au service des territoires connectés](feuille-de-route/ppun/environnement-amenagement-durable-territoire/territoires-intelligents-durables.md)
     * [Gouvernance et souveraineté de la donnée, un enjeu stratégique en Bourgogne-Franche-Comté](feuille-de-route/ppun/environnement-amenagement-durable-territoire/gouvernance-et-souverainete-de-la-donnee.md)
   * [Conclusion](feuille-de-route/ppun/conclusion.md)
-  * [Télécharger le document](https://feuillederoute.numerique-bfc.fr/?smd_process_download=1&download_id=630)
+  * [Télécharger le document](feuille-de-route/ppun/telecharger-le-document.md)
 
 ## Stratégie régionale
 
