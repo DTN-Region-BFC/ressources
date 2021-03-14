@@ -25,6 +25,10 @@
   * [Conclusion](feuille-de-route/ppun/conclusion.md)
   * [Télécharger le document](https://feuillederoute.numerique-bfc.fr/?smd_process_download=1&download_id=630)
 
+## Stratégie régionale
+
+* [SCORAN BFC](strategie-regionale/scoran-bfc.md)
+
 ## Ressources
 
 * [Questions fréquentes](ressources/faq.md)
