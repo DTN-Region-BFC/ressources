@@ -1,12 +1,14 @@
 ---
 description: >-
-  Bienvenue sur l'outil de partage de ressources de la Délégation à la
-  Transformation Numérique du conseil régional de Bourgogne-Franche-Comté.
+  Bienvenue sur l'espace de ressources de la Délégation à la Transformation
+  Numérique du conseil régional de Bourgogne-Franche-Comté.
 ---
 
 # Bienvenue
 
 **Première région à adopter une** [**Politique Publique des Usages Numériques**](feuille-de-route/ppun/)**, la Bourgogne-Franche-Comté fait de la transition numérique une priorité citoyenne, économique et écologique.**
+
+![](.gitbook/assets/illustration-numerique.png)
 
 La révolution numérique bouleverse le quotidien des citoyens, des entreprises et des administrations. Dans une région essentiellement rurale, où 97 % des communes comptent moins de 3.500 habitants, l’arrivée prochaine de la fibre optique va accélérer ces changements, faisant des usages numériques la question majeure de la décennie qui s’ouvre.
 
@@ -20,9 +22,11 @@ La troisième priorité est celle d’un numérique éco-responsable, d’un num
 
 Enfin la question de la donnée impose des réponses claires en termes de souveraineté, de sécurité et de protection. Nous plaçons le sujet de la donnée, dans une logique d’intérêt général et de protection des libertés individuelles, au cœur de nos priorités numériques.
 
-Au final notre ambition est bien de faire de la Bourgogne-Franche-Comté la première région de France à porter un « service public du numérique » au service des citoyens, de l’économie et de la planète.
+{% page-ref page="feuille-de-route/ppun/" %}
 
-![La PPUN a &#xE9;t&#xE9; adopt&#xE9;e en s&#xE9;ance pl&#xE9;ni&#xE8;re en octobre 2020](.gitbook/assets/ppun.png)
+
+
+Au final notre ambition est bien de faire de la Bourgogne-Franche-Comté la première région de France à porter un « service public du numérique » au service des citoyens, de l’économie et de la planète.
 
 {% hint style="info" %}
 Cet espace de ressources en ligne est maintenu par l'équipe de la Délégation à la Transformation Numérique du [conseil régional de Bourgogne-Franche-Comté](https://www.bourgognefranchecomte.fr).

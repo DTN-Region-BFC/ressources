@@ -72,3 +72,5 @@ La partie numérique du plan de relance constitue, entre autres dans les efforts
 
 **Au final l’adoption de cette Politique Publique des Usages Numériques place la Bourgogne-Franche-Comté au premier rang des régions françaises en matière d’usages.**
 
+{% file src="../../.gitbook/assets/ppun-bfc-102020.pdf" caption="Télécharger le document" %}
+
