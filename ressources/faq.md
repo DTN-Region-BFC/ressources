@@ -1,7 +1,5 @@
 # Questions fréquentes
 
-## 
-
 ### Où trouver le guide des aides régionales ?
 
 Le guide des aides régionales de la Région Bourgogne-Franche-Comté est disponible à cette adresse : [https://www.bourgognefranchecomte.fr/guide-des-aides](https://www.bourgognefranchecomte.fr/guide-des-aides)
