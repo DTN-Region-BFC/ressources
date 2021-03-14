@@ -47,3 +47,5 @@ _\*\*\*\*_
 
 {% file src="../.gitbook/assets/scoran-bfc\_annexes\_06-2019.pdf" caption="Annexes" %}
 
+{% file src="../.gitbook/assets/scoran-bfc-flyer-a5-06-20191.pdf" caption="Plaquette" %}
+
