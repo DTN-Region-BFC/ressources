@@ -34,3 +34,11 @@ Le cœur de la stratégie de la SCORAN BFC, au regard de ces trois principes fon
 
 _**La SCORAN BFC permettra de définir un cadre commun aux acteurs du territoire régional afin de définir des politiques publiques numériques applicables à l’ensemble de la région.**_
 
+[Voir la vidéo d'introduction des ateliers participatifs de la SCORAN BFC de janvier 2019](https://vimeo.com/307492202)
+
+{% file src="../.gitbook/assets/scoran-bfc-presentation.pdf" caption="Présentation" %}
+
+{% file src="../.gitbook/assets/scoran-bfc\_document\_06-2019.pdf" caption="Document" %}
+
+{% file src="../.gitbook/assets/scoran-bfc\_annexes\_06-2019.pdf" caption="Annexes" %}
+
