@@ -2,16 +2,12 @@
 
 Un accès mobile et fixe pour tous les usagers du territoire est un préalable pour un développement pérenne des usages et services numériques. Cette ambition s’inscrit dans le cadre national de développement des réseaux et constituera un socle pour l’émergence de projets innovants sur le territoire.
 
-{% hint style="info" %}
-Défi n°1  
-**Développer les infrastructures numériques fixes et mobiles**
-{% endhint %}
-
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
+      <th style="text-align:left">D&#xE9;fi n&#xB0;1</th>
+      <th style="text-align:left"><b>D&#xE9;velopper les infrastructures num&#xE9;riques fixes et mobiles</b>
+      </th>
     </tr>
   </thead>
   <tbody>
