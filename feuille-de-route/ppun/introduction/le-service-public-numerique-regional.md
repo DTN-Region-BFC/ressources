@@ -13,7 +13,7 @@ Faute de positionnement national clair sur le sujet, la Région entend créer le
 
 Les cibles du SPRN sont les **citoyens, les entreprises et les acteurs publics**. Il doit permettre de :
 
-* **Fédérer** les acteurs \(dans la continuité de la SCORAN BFC\) ;
+* **Fédérer** les acteurs \(dans la continuité de la [SCORAN BFC](../../../strategie-regionale/scoran-bfc/)\) ;
 * **Coordonner**, centraliser l’information sur les initiatives ; 
 * **Impulser** de nouvelles politiques publiques basées sur des usages numériques ; 
 * **Accompagner la montée en compétence** des habitants de Bourgogne-Franche-Comté pour leur permettre de tirer parti des outils numériques dans toutes les dimensions de leur vie.

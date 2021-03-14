@@ -12,7 +12,7 @@ En Bourgogne-Franche-Comté, l’enquête CAPUNI réalisée début 2019 montre q
 
 ## L'inclusion numérique
 
-L’inclusion numérique est inscrite dans les priorités de l’État depuis 2018 et est aussi l’un des trois principes transversaux de la SCORAN Bourgogne-Franche-Comté : « Afin d’accompagner les citoyens en difficulté avec le numérique et leur garantir un accès au numérique, l’élaboration de la stratégie de transformation numérique du territoire devra être celle d’une stratégie pour un numérique inclusif. » 
+L’inclusion numérique est inscrite dans les priorités de l’État depuis 2018 et est aussi l’un des trois principes transversaux de la [SCORAN BFC](../../../strategie-regionale/scoran-bfc/) : « _Afin d’accompagner les citoyens en difficulté avec le numérique et leur garantir un accès au numérique, l’élaboration de la stratégie de transformation numérique du territoire devra être celle d’une stratégie pour un numérique inclusif._ » 
 
 Notre région est identifiée nationalement pour sa stratégie qui prend en compte le sujet de l’inclusion numérique de manière prioritaire et transversale. 
 

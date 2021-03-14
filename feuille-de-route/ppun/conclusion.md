@@ -30,15 +30,15 @@ Si la politique publique ne peut être menée à bien sans l’existence d’inf
 
 ## La Politique Publique des Usages Numériques fixe à la fois un cadre opérationnel et des objectifs clairs
 
-La Politique Publique des Usages Numériques prend appui sur la réflexion collective d’élaboration de la SCORAN BFC qui avait associé des centaines d’acteurs publics \(collectivités, universités...\) et privés \(chambres consulaires, associations, filière...\). 
+La Politique Publique des Usages Numériques prend appui sur la réflexion collective d’élaboration de la [SCORAN BFC](../../strategie-regionale/scoran-bfc/) qui avait associé des centaines d’acteurs publics \(collectivités, universités...\) et privés \(chambres consulaires, associations, filière...\). 
 
-Après le choix dès 2016 d’augmenter de 45 % \(+ 50 millions d’euros pour un total de 162 M€\) l’aide régionale à la couverture THD, après le déploiement d’une offre THD Radio à partir de 2017/2018 et l’adoption en juin 2019 de la SCORAN BFC, la question fondamentale des usages se concrétise dans cette « **Politique Publique des Usages Numériques** » qui fixe tout à la fois un **cadre opérationnel immédiat** et des **objectifs clairs pour la décennie qui s’ouvre**. 
+Après le choix dès 2016 d’augmenter de 45 % \(+ 50 millions d’euros pour un total de 162 M€\) l’aide régionale à la couverture THD, après le déploiement d’une offre THD Radio à partir de 2017/2018 et l’adoption en juin 2019 de la [SCORAN BFC](../../strategie-regionale/scoran-bfc/), la question fondamentale des usages se concrétise dans cette « **Politique Publique des Usages Numériques** » qui fixe tout à la fois un **cadre opérationnel immédiat** et des **objectifs clairs pour la décennie qui s’ouvre**. 
 
 Il s’agit ainsi, de peser sur les grandes orientations au regard des cycles longs qui structurent les politiques publiques : pro-gramme opérationnel FEDER, futur CPER et renouvellement de la gouvernance du bloc communal avec lequel les politiques de proximité doivent s’articuler.
 
 La Politique Publique des Usages Numérique de la Bourgogne-Franche-Comté, tenant compte de la crise sanitaire et des plans de relance \(État et Région\), a donc vocation : 
 
-* À définir les priorités de court et moyen terme de la collectivité régionale face aux défis liés à la transformation numérique dans le respect des objectifs stratégiques de la SCORAN BFC ; 
+* À définir les priorités de court et moyen terme de la collectivité régionale face aux défis liés à la transformation numérique dans le respect des objectifs stratégiques de la [SCORAN BFC](../../strategie-regionale/scoran-bfc/) ; 
 * À proposer de créer ou d’adapter les outils et dispositifs régionaux à ces priorités ; 
 * À préparer l’institution régionale à sa propre mutation. 
 
