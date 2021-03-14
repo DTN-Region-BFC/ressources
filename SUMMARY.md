@@ -5,6 +5,7 @@
 ## Feuille de route
 
 * [Politique Publique des Usages Numériques](feuille-de-route/ppun/README.md)
+  * [Sommaire](feuille-de-route/ppun/sommaire.md)
   * [Introduction](feuille-de-route/ppun/introduction/README.md)
     * [Le numérique accélère les mutations économiques et sociales](feuille-de-route/ppun/introduction/le-numerique-accelere-les-mutations-economiques-et-sociales.md)
     * [Le réseau d’infrastructures THD reste à achever mais l’objectif n’est plus remis en cause](feuille-de-route/ppun/introduction/le-reseau-dinfrastructures-thd-reste-a-achever-mais-lobjectif-nest-plus-remis-en-cause.md)
