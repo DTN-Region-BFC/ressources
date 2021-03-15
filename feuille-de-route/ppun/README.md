@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="L\'édito de la Présidente" %}
-### **La Région Bourgogne-Franche-Comté a très tôt fait des transitions numériques une priorité.**
+#### **La Région Bourgogne-Franche-Comté a très tôt fait des transitions numériques une priorité.**
 
 Parce que le numérique prend une place croissante dans la vie sociale des Français et dans l’économie, notre collectivité a largement investi pour accélérer le déploiement des infrastructures, et garantir au plus grand nombre les conditions d’un accès aux services publics, au savoir, à l’éducation, au développement économique ou au divertissement. 
 
@@ -21,7 +21,7 @@ Présidente de la Région Bourgogne-Franche-Comté
 {% endtab %}
 
 {% tab title="L\'édito du Vice-Président" %}
-### **Première région à adopter une Politique Publique des Usages Numériques, la Bourgogne-Franche-Comté fait de la transition numérique une priorité citoyenne, économique et écologique.**
+#### **Première région à adopter une Politique Publique des Usages Numériques, la Bourgogne-Franche-Comté fait de la transition numérique une priorité citoyenne, économique et écologique.**
 
 **La révolution numérique bouleverse le quotidien des citoyens, des entreprises et des administrations.** Dans une région essentiellement rurale, où 97 % des communes comptent moins de 3.500 habitants, **l’arrivée prochaine de la fibre optique va accélérer ces changements, faisant des usages numériques la question majeure de la décennie qui s’ouvre**. 
 
