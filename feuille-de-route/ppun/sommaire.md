@@ -39,8 +39,8 @@ description: Politique Publique des Usages Numériques
     <tr>
       <td style="text-align:left">1.</td>
       <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;<a href="citoyens/"><b>Les citoyens</b></a>
-          <br /><em>Donner &#xE0; tous les citoyens les moyens de b&#xE9;n&#xE9;ficier de la transition num&#xE9;rique</em>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="citoyens/"><b>Les citoyens</b></a>&lt;em&gt;&lt;/em&gt;</p>
+        <p><em>Donner &#xE0; tous les citoyens les moyens de b&#xE9;n&#xE9;ficier de la transition num&#xE9;rique</em>
         </p>
         <ul>
           <li><a href="citoyens/le-defi-de-linclusion.md">Le d&#xE9;fi de l&#x2019;inclusion</a> :
@@ -55,9 +55,9 @@ description: Politique Publique des Usages Numériques
     <tr>
       <td style="text-align:left">2.</td>
       <td style="text-align:left">
-        <p><a href="acteurs-economiques-et-sociaux/"><b>Les acteurs &#xE9;conomiques et sociaux</b></a>
-          <br
-          /><em>Faire de la transition num&#xE9;rique un moteur de la dynamique &#xE9;conomique r&#xE9;gionale</em>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="acteurs-economiques-et-sociaux/"><b>Les acteurs &#xE9;conomiques et sociaux</b></a>
+        </p>
+        <p><em>Faire de la transition num&#xE9;rique un moteur de la dynamique &#xE9;conomique r&#xE9;gionale</em>
         </p>
         <ul>
           <li><a href="acteurs-economiques-et-sociaux/economie.md">La transformation num&#xE9;rique de l&#x2019;&#xE9;conomie</a>
@@ -70,7 +70,7 @@ description: Politique Publique des Usages Numériques
     <tr>
       <td style="text-align:left">3.</td>
       <td style="text-align:left">
-        <p>&lt;b&gt;&lt;/b&gt;<a href="environnement-amenagement-durable-territoire/"><b>L&#x2019;environnement et l&#x2019;am&#xE9;nagement durable du territoire</b></a>&lt;b&gt;&lt;/b&gt;</p>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="environnement-amenagement-durable-territoire/"><b>L&#x2019;environnement et l&#x2019;am&#xE9;nagement durable du territoire</b></a>&lt;em&gt;&lt;/em&gt;</p>
         <p><em>Faire du Num&#xE9;rique un levier essentiel au service de l&#x2019;am&#xE9;nagement durable des territoires et de l&#x2019;environnement</em>
         </p>
         <ul>
