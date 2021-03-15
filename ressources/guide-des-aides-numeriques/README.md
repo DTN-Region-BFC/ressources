@@ -26,5 +26,13 @@ La crise sanitaire et économique de la COVID-19 a mis en exergue l’importance
 
 {% file src="../../.gitbook/assets/guide-des-aides-dtn-032021.pdf" caption="Télécharger le guide" %}
 
+{% hint style="info" %}
+**INFORMATIONS COMMUNES À TOUS LES DISPOSITIFS**
 
+* La Région a mis en place un service en ligne permettant le dépôt des demandes d’aides \(sauf pour le règlement d’intervention Rcube THD où la demande se fera uniquement par mail ou par courrier\) : [https://subventions.bourgognefranchecomte.fr/sub/login-tiers.sub](https://subventions.bourgognefranchecomte.fr/sub/login-tiers.sub) 
+* Le dossier de demande d’aide doit être déposé complet avant tout commencement d’exécution du projet présenté.
+* Les taux d’intervention et les montants de subvention sont indiqués sous réserve des limites fixées par la réglementation des aides d’État. Par conséquent, les taux d’intervention et les montants indiqués sont susceptibles d’être modifiés en fonction de la règlementation applicable.
+* La validité des aides régionales est de deux années.
+* Les études préalables et dépenses de maîtrise d’œuvre peuvent être prises en compte dans le coût de l'investissement à certaines conditions.
+{% endhint %}
 
