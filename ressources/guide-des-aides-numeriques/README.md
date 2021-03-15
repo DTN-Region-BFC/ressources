@@ -21,7 +21,7 @@ La crise sanitaire et économique de la COVID-19 a mis en exergue l’importance
 **LA RÉGION BOURGOGNE-FRANCHE-COMTÉ** VOUS AIDE POUR :
 
 * **Accélérer le déploiement des infrastructures numériques** : accès mobile et fixe pour tous les usagers du territoire. Déploiement général du Très Haut Débit, via la fibre optique, les réseaux filaires \(ADSL, VDSL\), le satellite ou grâce aux technologies radio comme RCube THD, premier réseau de Très haut débit radio pour les territoires ruraux.
-* **Accompagner la transformation numérique du territoire** : accompagnement du citoyen et développement de nouveaux usages numériques pour faciliter la vie des citoyens \(mobilité, éducation, modes de travail, tourisme…\).
+* \*\*\*\*[**Accompagner la transformation numérique du territoire**](accompagner-la-transformation-numerique-du-territoire/) : accompagnement du citoyen et développement de nouveaux usages numériques pour faciliter la vie des citoyens \(mobilité, éducation, modes de travail, tourisme…\).
 * **Structurer une démarche de territoire intelligent et durable.**
 
 {% file src="../../.gitbook/assets/guide-des-aides-dtn-032021.pdf" caption="Télécharger le guide" %}

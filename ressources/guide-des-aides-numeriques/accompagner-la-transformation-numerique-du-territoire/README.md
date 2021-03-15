@@ -33,6 +33,8 @@ Le numérique n’a de sens que si ses avancées bénéficient à la société e
 **85 % des internautes éloignés du numérique** s’appuient sur leur entourage en cas de difficultés.
 {% endhint %}
 
+➔ Voir l'aide disponible : [**Pass numériques**](pass-numeriques-lutte-contre-lillectronisme-et-inclusion-numerique.md)\*\*\*\*
+
 ## TIERS-LIEUX
 
 Un tiers-lieux est un lieu hybride à la frontière du domicile, du lieu de travail, du lieu d’apprentissage, ou encore de l’espace de loisirs. Les tiers-lieux abritent des communautés d’acteurs engagés au service de l’inclusion, du partage et de l’innovation. Ouverts à tous les publics, ils permettent l’expérimentation de nouveaux modèles économiques, écologiques, sociaux et d’organisation du travail. De nombreux tiers-lieux permettent de découvrir, de s’informer et d’échanger sur les pratiques et les usages du numérique tout en permettant leur appropriation par tous.
