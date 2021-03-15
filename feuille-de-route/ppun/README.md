@@ -20,7 +20,7 @@ Marie-Guite Dufay
 Présidente de la Région Bourgogne-Franche-Comté
 {% endtab %}
 
-{% tab title="L\'édito du Vice-Préident" %}
+{% tab title="L\'édito du Vice-Président" %}
 ### **Première région à adopter une Politique Publique des Usages Numériques, la Bourgogne-Franche-Comté fait de la transition numérique une priorité citoyenne, économique et écologique.**
 
 **La révolution numérique bouleverse le quotidien des citoyens, des entreprises et des administrations.** Dans une région essentiellement rurale, où 97 % des communes comptent moins de 3.500 habitants, **l’arrivée prochaine de la fibre optique va accélérer ces changements, faisant des usages numériques la question majeure de la décennie qui s’ouvre**. 
@@ -38,7 +38,7 @@ Enfin la question de la donnée impose des réponses claires en termes de souver
 **Au final notre ambition est bien de faire de la Bourgogne-Franche-Comté la première région de France à porter un « service public du numérique » au service des citoyens, de l’économie et de la planète**.
 
 Patrick MOLINOZ   
-Vice-Président de la Région Bourgogne-Franche-Comté
+Vice-Président de la Région Bourgogne-Franche-Comté en charge de la jeunesse, de la vie associative, de la laïcité, de l’innovation et du développement numérique des territoires
 {% endtab %}
 {% endtabs %}
 
