@@ -44,5 +44,6 @@
   * [Accélérer le déploiement des infrastructures numériques](ressources/guide-des-aides-numeriques/accelerer-le-deploiement-des-infrastructures-numeriques.md)
   * [Structurer une démarche de territoires intelligents](ressources/guide-des-aides-numeriques/structurer-une-demarche-de-territoires-intelligents/README.md)
     * [Aider au développement de la transformation numérique des collectivités](ressources/guide-des-aides-numeriques/structurer-une-demarche-de-territoires-intelligents/aider-au-developpement-de-la-transformation-numerique-des-collectivites.md)
+    * [Un appel à projets « Territoires Intelligents et Durables »](ressources/guide-des-aides-numeriques/structurer-une-demarche-de-territoires-intelligents/un-appel-a-projets-territoires-intelligents-et-durables.md)
 * [Questions fréquentes](ressources/faq.md)
 
