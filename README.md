@@ -8,7 +8,7 @@ description: >-
 
 ![](.gitbook/assets/dtn.png)
 
-Première région à adopter une [Politique Publique des Usages Numériques](feuille-de-route/ppun/), la Bourgogne-Franche-Comté fait de la transition numérique une priorité citoyenne, économique et écologique.
+> Première région à adopter une [Politique Publique des Usages Numériques](feuille-de-route/ppun/), la Bourgogne-Franche-Comté fait de la transition numérique une priorité citoyenne, économique et écologique.
 
 
 
