@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Espace de ressources partagée](README.md)
+* [Espace de ressources partagées](README.md)
 
 ## Feuille de route
 
