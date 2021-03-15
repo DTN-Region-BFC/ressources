@@ -4,7 +4,7 @@ description: >-
   Transformation Numérique de la Région Bourgogne-Franche-Comté.
 ---
 
-# Bienvenue !
+# Espace de ressources partagée
 
 **Première région à adopter une** [**Politique Publique des Usages Numériques**](feuille-de-route/ppun/)**, la Bourgogne-Franche-Comté fait de la transition numérique une priorité citoyenne, économique et écologique.**
 

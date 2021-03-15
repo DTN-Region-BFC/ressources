@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bienvenue !](README.md)
+* [Espace de ressources partagée](README.md)
 
 ## Feuille de route
 
