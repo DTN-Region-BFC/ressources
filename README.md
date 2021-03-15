@@ -15,6 +15,8 @@ description: >-
 |  |  |  |
 
 {% hint style="info" %}
-Cet espace de ressources en ligne est maintenu par l'équipe de la Délégation à la Transformation Numérique du [conseil régional de Bourgogne-Franche-Comté](https://www.bourgognefranchecomte.fr).
+Cet espace de ressources en ligne est maintenu par l'équipe de la Délégation à la Transformation Numérique du [Conseil régional de Bourgogne-Franche-Comté](https://www.bourgognefranchecomte.fr).
 {% endhint %}
+
+
 
