@@ -34,7 +34,7 @@
   * [Enjeu n°3 – Innover par la donnée](strategie-regionale/scoran-bfc/enjeu-n-3-innover-par-la-donnee.md)
   * [Télécharger les documents](strategie-regionale/scoran-bfc/telecharger-les-documents.md)
 
-## Ressources
+## Ressources en ligne <a id="ressources"></a>
 
 * [Guide des aides numériques](ressources/guide-des-aides-numeriques/README.md)
   * [Accompagner la transformation numérique du territoire](ressources/guide-des-aides-numeriques/accompagner-la-transformation-numerique-du-territoire/README.md)

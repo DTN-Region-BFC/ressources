@@ -10,13 +10,9 @@ description: >-
 
 ![](.gitbook/assets/illustration-numerique.png)
 
-| Feuille de route | Stratégie régionale | Ressources |
+| Feuille de route | Stratégie régionale | Ressources en ligne |
 | :--- | :--- | :--- |
 |  |  |  |
-
-{% page-ref page="feuille-de-route/ppun/" %}
-
-
 
 {% hint style="info" %}
 Cet espace de ressources en ligne est maintenu par l'équipe de la Délégation à la Transformation Numérique du [conseil régional de Bourgogne-Franche-Comté](https://www.bourgognefranchecomte.fr).
