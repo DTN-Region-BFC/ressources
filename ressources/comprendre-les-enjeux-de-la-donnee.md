@@ -16,11 +16,34 @@ Dans le cadre de vos projets, pensez à :
 
 * Luc Le Thorel – Responsable données/SIG - 03 80 44 35 84 - luc.lethorel@bourgognefranchecomte.fr
 
-{% hint style="info" %}
-![](../.gitbook/assets/ideo-bfc.png) 
-
-IDéO BFC est un dispositif partenarial dédié au partage des données publiques et de la connaissance en Bourgogne-Franche-Comté. Son rôle est de recenser les données existantes en région, favoriser leur circulation, leur partage et leur exploitation, faire connaître et valoriser ce patrimoine. 
-
-Rendez-vous sur le portail de la donnée et de la connaissance : [https://ideo.ternum-bfc.fr/](https://ideo.ternum-bfc.fr/)
-{% endhint %}
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <img src="../.gitbook/assets/ideo-bfc.png" alt/>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p></p>
+        <p>ID&#xE9;O BFC est un dispositif partenarial d&#xE9;di&#xE9; au partage
+          des donn&#xE9;es publiques et de la connaissance en Bourgogne-Franche-Comt&#xE9;.</p>
+        <p></p>
+        <p>Son r&#xF4;le est de recenser les donn&#xE9;es existantes en r&#xE9;gion,
+          favoriser leur circulation, leur partage et leur exploitation, faire conna&#xEE;tre
+          et valoriser ce patrimoine.</p>
+        <p></p>
+        <p>Rendez-vous sur le portail de la donn&#xE9;e et de la connaissance :
+          <a
+          href="https://ideo.ternum-bfc.fr/">https://ideo.ternum-bfc.fr/</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
