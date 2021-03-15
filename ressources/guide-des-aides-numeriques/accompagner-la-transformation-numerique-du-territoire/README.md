@@ -41,3 +41,5 @@ Un tiers-lieux est un lieu hybride à la frontière du domicile, du lieu de trav
 Plus de **100 tiers-lieux liés au numérique** en Bourgogne-Franche-Comté.
 {% endhint %}
 
+➔ Voir l'aide disponible : [**Développer les Tiers-Lieux**](developper-les-tiers-lieux.md)\*\*\*\*
+
