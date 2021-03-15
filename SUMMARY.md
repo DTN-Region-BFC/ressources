@@ -41,5 +41,8 @@
     * [Développer les usages innovants du numérique](ressources/guide-des-aides-numeriques/accompagner-la-transformation-numerique-du-territoire/developper-les-usages-innovants-du-numerique.md)
     * [Développer les Tiers-Lieux](ressources/guide-des-aides-numeriques/accompagner-la-transformation-numerique-du-territoire/developper-les-tiers-lieux.md)
     * [Pass numériques : lutte contre l’illectronisme et inclusion numérique](ressources/guide-des-aides-numeriques/accompagner-la-transformation-numerique-du-territoire/pass-numeriques-lutte-contre-lillectronisme-et-inclusion-numerique.md)
+  * [Accélérer le déploiement des infrastructures numériques](ressources/guide-des-aides-numeriques/accelerer-le-deploiement-des-infrastructures-numeriques.md)
+  * [Structurer une démarche de territoires intelligents](ressources/guide-des-aides-numeriques/structurer-une-demarche-de-territoires-intelligents/README.md)
+    * [Aider au développement de la transformation numérique des collectivités](ressources/guide-des-aides-numeriques/structurer-une-demarche-de-territoires-intelligents/aider-au-developpement-de-la-transformation-numerique-des-collectivites.md)
 * [Questions fréquentes](ressources/faq.md)
 

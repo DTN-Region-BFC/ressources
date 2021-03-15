@@ -6,7 +6,7 @@ description: >-
 
 # Développer les Tiers-Lieux
 
-### Pourquoi ?
+## Pourquoi ?
 
 * Soutenir l’aménagement et/ou la construction de projets de tiers-lieux, lieux spécifiques d’actions et d’innovations numériques, structurant pour le territoire. Les équipements spécifiques seront pris en charge dans ce cadre.
 * Lutter contre l’illectronisme, favoriser l’émergence de projets innovants et faciliter l’accessibilité des usages numériques pour tous.
@@ -23,11 +23,11 @@ Ces tiers-lieux respecteront la charte du réseau régional des tiers-lieux. Ce 
 
 {% file src="../../../.gitbook/assets/charte-du-reseau-tl-bfc-v1.pdf" caption="Charte du réseau régional des Tiers-Lieux en BFC" %}
 
-### Pour qui ?
+## Pour qui ?
 
 Les associations, collectivités, coopératives, établissements publics de coopération intercommunale, établissements publics de santé et leurs groupements, fondations, groupements d’intérêt public, sociétés d’économie mixte et sociétés publiques locales.
 
-### Combien ?
+## Combien ?
 
 <table>
   <thead>
@@ -80,7 +80,7 @@ Les associations, collectivités, coopératives, établissements publics de coop
   </tbody>
 </table>
 
-### Comment déposer un dossier ?
+## Comment déposer un dossier ?
 
 Lien vers le guide des aides pour développer les tiers-lieux sur le site web de la Région : [https://www.bourgognefranchecomte.fr/node/2643](https://www.bourgognefranchecomte.fr/node/2643)
 
@@ -89,7 +89,7 @@ Date limite de dépôt : 31 décembre 2021
 Les justificatifs de dépenses devront parvenir à la Région avant le 30 juin 2022
 {% endhint %}
 
-### Contacts
+## Contacts
 
 * Pascal Minguet – 06 60 32 43 86 - pascal.minguet@bourgognefranchecomte.fr 
 * France Guillemin – 06 74 97 43 20 - france.guillemin@bourgognefranchecomte.fr
