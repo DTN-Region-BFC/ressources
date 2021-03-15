@@ -10,7 +10,7 @@ Même si elle est essentielle, la question des infrastructures numériques Très
 
 Si la politique publique ne peut être menée à bien sans l’existence d’infrastructures Très Haut Débit à même de fournir un accès mobile et fixe de qualité pour tous, la question des infrastructures numériques n’est pas l’objet de la Politique Publique des Usages Numériques.
 
-**La Politique Publique des Usages Numériques respecte les trois principes fondateurs de la SCORAN BFC** :
+**La Politique Publique des Usages Numériques respecte les trois principes fondateurs de la** [**SCORAN BFC**](../../strategie-regionale/scoran-bfc/) :
 
 * **Éthique** : L’éthique, acte de responsabilité, d’engagement et d’intégrité, doit rester un préalable à la création de nouveaux usages et services numériques sur le territoire. 
 * **Inclusive** : Afin d’accompagner les citoyens en difficulté avec le numérique et leur garantir un égal accès au numérique, l’élaboration de la stratégie de transformation numérique du territoire devra être celle d’une stratégie pour un numérique inclusif. 
@@ -18,12 +18,9 @@ Si la politique publique ne peut être menée à bien sans l’existence d’inf
 
 **Elle s’articule également avec l’ensemble des schémas élaborés par la Région** dans le cadre de l’exercice de ses compétences impactées par le numérique :
 
-* Le **SRADDET** qui vient d’être approuvé et qui comporte un axe numérique
+* Le **SRADDET** qui comporte un axe numérique ;
 * Le **Schéma Régional de Développement Économique, d’Innovation et d’Internationalisation** \(SRDEII\) qui veut agir notamment sur la digitalisation des TPE/PME ; 
-* Le **CAPéCO numérique 2018-2022** \(Contrat d’Appui à la Performance Économique et au Développement des Compétences
-
-  de la filière numérique\), dont la vocation est de structurer l’écosystème des entreprises de la filière numérique locale et de les faire bénéficier du déploiement des usages numériques ; 
-
+* Le **CAPéCO numérique 2018-2022** \(Contrat d’Appui à la Performance Économique et au Développement des Compétences de la filière numérique\), dont la vocation est de structurer l’écosystème des entreprises de la filière numérique locale et de les faire bénéficier du déploiement des usages numériques ; 
 * Le **Schéma Régional du Tourisme 2017-2022**, dont le 3ème objectif stratégique est de « Soutenir l’innovation dans les services rendus et la montée en puissance du numérique » ; 
 * La **feuille de route santé 2019-2021**, dont l’objectif est de répondre au besoin de proximité et renforcer la prévention et dont l’axe 3 vise à déployer les innovations numériques et technologiques ; 
 * Le **Schéma Régional de la Recherche, de l’Enseignement Supérieur et de l’Innovation** \(SRESRI\), dont l’une des pistes d’action est l’utilisation des outils numériques au service de la médiation scientifique.
