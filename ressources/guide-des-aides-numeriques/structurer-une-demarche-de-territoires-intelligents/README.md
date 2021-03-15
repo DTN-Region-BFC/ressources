@@ -10,8 +10,8 @@ La Région souhaite engager une démarche en matière de territoires intelligent
 
 ### Cette démarche propose deux dispositifs
 
-* **Une aide au développement de la transformation numérique des collectivités** afin de permettre aux collectivités de disposer d’outils pour s’engager dans une démarche de territoire intelligent.
-* **Un appel à projets « Territoires Intelligents et durables »** qui accompagne les acteurs publics dans la mise en œuvre des projets numériques transverses.
+* \*\*\*\*[**Une aide au développement de la transformation numérique des collectivités**](aider-au-developpement-de-la-transformation-numerique-des-collectivites.md) afin de permettre aux collectivités de disposer d’outils pour s’engager dans une démarche de territoire intelligent.
+* \*\*\*\*[**Un appel à projets « Territoires Intelligents et Durables »**](un-appel-a-projets-territoires-intelligents-et-durables.md) qui accompagne les acteurs publics dans la mise en œuvre des projets numériques transverses.
 
 {% hint style="info" %}
 **30% de la congestion** est due à la recherche de place de stationnement. Le stationnement intelligent améliore la gestion des flux et réduit l’émission de gaz à effet de serre.
