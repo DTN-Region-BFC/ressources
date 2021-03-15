@@ -24,6 +24,8 @@ La **Stratégie de Cohérence pour l’Aménagement Numérique en Bourgogne-Fran
 {% tab title="Ressources en ligne" %}
 {% page-ref page="ressources/guide-des-aides-numeriques/" %}
 
+{% page-ref page="ressources/comprendre-les-enjeux-de-la-donnee.md" %}
+
 {% page-ref page="ressources/faq.md" %}
 {% endtab %}
 {% endtabs %}

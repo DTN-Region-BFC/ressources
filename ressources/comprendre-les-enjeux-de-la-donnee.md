@@ -14,7 +14,7 @@ Dans le cadre de vos projets, pensez à :
 
 ### Contact
 
-* Luc Le Thorel – responsable données/SIG - 03 80 44 35 84 - luc.lethorel@bourgognefranchecomte.fr
+* Luc Le Thorel – Responsable données/SIG - 03 80 44 35 84 - luc.lethorel@bourgognefranchecomte.fr
 
 {% hint style="info" %}
 ![](../.gitbook/assets/ideo-bfc.png) 
