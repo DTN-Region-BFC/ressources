@@ -6,6 +6,8 @@ description: >-
 
 # Guide des aides numériques
 
+![R&#xE9;gion Bourgogne-Franche-Comt&#xE9;](../.gitbook/assets/guide-des-aides-numeriques-bfc.png)
+
 La numérisation de l’économie, de la société et des territoires est porteuse d’opportunités, de nouveaux services, de développement économique, d’emplois, de dynamique rurale et de préservation de l’environnement. 
 
 La crise sanitaire et économique de la COVID-19 a mis en exergue l’importance des réseaux de télécommunication et des usages. Télétravail, visioconférence, continuité pédagogique, relations sociales ou accès aux contenus culturels sont autant d’exemples démontrant la montée en puissance du numérique. Pour conduire cette transition numérique, la Région participe et subventionne le déploiement des infrastructures numériques et accompagne le développement des usages.
