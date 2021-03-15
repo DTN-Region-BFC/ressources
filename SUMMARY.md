@@ -39,5 +39,6 @@
 * [Guide des aides numériques](ressources/guide-des-aides-numeriques/README.md)
   * [Accompagner la transformation numérique du territoire](ressources/guide-des-aides-numeriques/accompagner-la-transformation-numerique-du-territoire/README.md)
     * [Développer les usages innovants du numérique](ressources/guide-des-aides-numeriques/accompagner-la-transformation-numerique-du-territoire/developper-les-usages-innovants-du-numerique.md)
+    * [Développer les Tiers-Lieux](ressources/guide-des-aides-numeriques/accompagner-la-transformation-numerique-du-territoire/developper-les-tiers-lieux.md)
 * [Questions fréquentes](ressources/faq.md)
 
