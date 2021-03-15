@@ -36,5 +36,6 @@
 
 ## Ressources
 
+* [Guide des aides numériques](ressources/guide-des-aides-numeriques.md)
 * [Questions fréquentes](ressources/faq.md)
 
