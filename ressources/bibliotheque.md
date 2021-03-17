@@ -1,6 +1,6 @@
 ---
 description: >-
-  Une collection de documents et de lieux utiles pour accompagner la
+  Une collection de documents et de liens utiles pour accompagner la
   transformation numérique
 ---
 
