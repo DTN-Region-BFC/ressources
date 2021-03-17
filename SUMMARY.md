@@ -47,4 +47,5 @@
     * [Un appel à projets « Territoires Intelligents et Durables »](ressources/guide-des-aides-numeriques/structurer-une-demarche-de-territoires-intelligents/un-appel-a-projets-territoires-intelligents-et-durables.md)
 * [Comprendre les enjeux de la donnée](ressources/comprendre-les-enjeux-de-la-donnee.md)
 * [Questions fréquentes](ressources/faq.md)
+* [Bibliothèque](ressources/bibliotheque.md)
 
