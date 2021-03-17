@@ -22,9 +22,7 @@ Le contenu de cette stratégie a été co-construit avec les entreprises, associ
 
 ➡️ [_Voir la **vidéo d'introduction des ateliers participatifs** de janvier 2019_](https://vimeo.com/307492202)\_\_
 
-{% embed url="https://vimeo.com/307492202" %}
-
-\_\_
+{% embed url="https://vimeo.com/307492202" caption="Vidéo d\'introduction des ateliers participatifs de la SCORAN BFC" %}
 
 {% hint style="success" %}
 La SCORAN BFC porte l’ambition de **faire de la région un territoire leader dans le domaine du numérique** et singulièrement à travers le développement des usages et de l’inclusion. Cette ambition collective est guidée par trois grands principes fondateurs :
