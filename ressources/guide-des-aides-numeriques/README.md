@@ -24,7 +24,7 @@ La crise sanitaire et économique de la COVID-19 a mis en exergue l’importance
 * \*\*\*\*[**Accélérer le déploiement des infrastructures numériques**](accelerer-le-deploiement-des-infrastructures-numeriques.md) : accès mobile et fixe pour tous les usagers du territoire. Déploiement général du Très Haut Débit, via la fibre optique, les réseaux filaires \(ADSL, VDSL\), le satellite ou grâce aux technologies radio comme RCube THD, premier réseau de Très haut débit radio pour les territoires ruraux.
 * \*\*\*\*[**Structurer une démarche de territoire intelligent et durable**](structurer-une-demarche-de-territoires-intelligents/)**.**
 
-{% file src="../../.gitbook/assets/guide-des-aides-dtn-032021.pdf" caption="Télécharger le guide" %}
+{% file src="../../.gitbook/assets/guide-des-aides-dtn-190321.pdf" caption="Télécharger le guide" %}
 
 {% hint style="info" %}
 **INFORMATIONS COMMUNES À TOUS LES DISPOSITIFS**
