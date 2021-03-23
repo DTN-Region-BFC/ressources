@@ -19,9 +19,9 @@ Cette charte a pour objectif d’affirmer la neutralité de ce réseau et de dé
 {% endtab %}
 
 {% tab title="Cartographie" %}
-{% embed url="http://u.osmfr.org/m/179564/" %}
+La cartographie est en cours de réactualisation
 
-La cartographie est en cours de réactulaisation
+[Voir en plein écran](//umap.openstreetmap.fr/fr/map/les-lieux-de-la-transition-numerique-en-bourgogne-_179564)
 {% endtab %}
 {% endtabs %}
 
