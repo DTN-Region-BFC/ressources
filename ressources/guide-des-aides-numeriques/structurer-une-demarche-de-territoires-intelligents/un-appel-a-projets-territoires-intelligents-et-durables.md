@@ -110,7 +110,7 @@ La subvention sera calculée suivant les critères d’évaluation. Le montant e
 Lien vers l'appel à projet « Territoires Intelligents et Durables » sur le site web de la Région : [https://www.bourgognefranchecomte.fr/node/2658](https://www.bourgognefranchecomte.fr/node/2658)
 
 {% hint style="warning" %}
-L'appel à projets est ouvert duu **1er mars au 31 décembre 2021**, avec des temps de sélection intermédiaires : 
+L'appel à projets est ouvert du **1er mars au 31 décembre 2021**, avec des temps de sélection intermédiaires : 
 
 * Avant le 30 avril 2021
 * Avant le 15 octobre 2021
