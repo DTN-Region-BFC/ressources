@@ -121,7 +121,7 @@ Les cinq aides sont cumulables.
         <p>&#xC9;quipement</p>
         <p>Logiciel</p>
       </td>
-      <td style="text-align:left">Co&#xFB;t projet minimum de 10.000&#xA0;&#x20AC;
+      <td style="text-align:left">Co&#xFB;t projet minimum de 5.000&#xA0;&#x20AC;
         <br />Taux : 40&#xA0;% des d&#xE9;penses &#xE9;ligibles
         <br />Plafond : 40.000&#xA0;&#x20AC; &#xE0; l&#x2019;&#xE9;chelle de l&#x2019;EPCI</td>
     </tr>
@@ -142,8 +142,8 @@ Les cinq aides sont cumulables.
     <tr>
       <td style="text-align:left">
         <p>EPCI</p>
-        <p>de moins de 50 000 habitants</p>
-        <p>et leur ville centre</p>
+        <p>de moins de 50 000 habitants, leur ville centre et leurs communes, groupement
+          d&#x2019;int&#xE9;r&#xEA;t public</p>
       </td>
       <td style="text-align:left">
         <p>&#xC9;quipement</p>
