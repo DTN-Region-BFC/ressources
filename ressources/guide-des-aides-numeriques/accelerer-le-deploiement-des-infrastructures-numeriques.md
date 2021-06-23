@@ -6,7 +6,7 @@ description: Guides des aides numériques
 
 L’accès fixe et mobile à la téléphonie et à l’internet est considéré par la population comme un service essentiel. Mais les opérateurs concernés par le déploiement de ces réseaux n’ont pas d’obligation d’assurer une couverture intégrale du territoire. La Région contribue financièrement et techniquement aux initiatives prises par les pouvoirs publics pour le déploiement de la fibre optique et des réseaux mobiles.
 
-## TADUREZO, UNE APPLICATION PARTICIPATIVE
+## TADURÉZO, UNE APPLICATION PARTICIPATIVE
 
 <table>
   <thead>

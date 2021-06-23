@@ -13,11 +13,11 @@ description: >-
 
 **Les projets de tiers-lieux devront correspondre à l’une des cinq configurations possibles** : 
 
-* Tiers-lieux d’expérimentation - innovation - fabrication
-* Tiers-lieux de télétravail et collaboration + tiers-lieux d’expérimentation – innovation – fabrication
-* Tiers-lieux de médiation numérique + tiers-lieux d’expérimentation – innovation – fabrication
-* Tiers-lieux de médiation numérique + tiers-lieux de télétravail - collaboration
-* Tiers-lieux de médiation numérique + tiers-lieux de télétravail – collaboration + tiers-lieux d’expérimentation – innovation – fabrication 
+* Expérimentation/Innovation/Fabrication
+* Télétravail et collaboration + Expérimentation/Innovation/Fabrication
+* Médiation numérique + Expérimentation/Innovation/Fabrication
+* Médiation numérique + Télétravail et collaboration
+* Médiation numérique + Télétravail et collaboration + Expérimentation/Innovation/Fabrication
 
 Ces tiers-lieux respecteront la charte du réseau régional des tiers-lieux. Ce sont des lieux privilégiés d’innovation collective, de partage d’information et de transmission de compétences.
 
