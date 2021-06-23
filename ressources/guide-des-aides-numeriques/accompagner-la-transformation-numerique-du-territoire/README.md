@@ -49,9 +49,5 @@ Plus de **100 tiers-lieux liés au numérique** en Bourgogne-Franche-Comté.
 
 Une Micro-Folie est un équipement qui propose des contenus culturels pédagogiques ludiques et technologiques. Elle comprend un musée numérique constitué d'images en Haute Définition d'œuvres majeures issues des collections de 12 établissements publics nationaux partenaires du projet.
 
-{% hint style="success" %}
-Plus de **100 tiers-lieux liés au numérique** en Bourgogne-Franche-Comté.
-{% endhint %}
-
 ➔ Voir l'aide disponible : [Aider et encourager le développement des micro-folies](aider-et-encourager-le-developpement-des-micro-folies.md)
 

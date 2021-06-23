@@ -2,7 +2,7 @@
 
 ## Pourquoi ?
 
-Permettre l’accès à la culture pour tous grâce à un déploiement de l’offre culturelle au plus près des territoires en soutenant les Micro-Folies dans le cadre du réseau créé et animé par l'établissement public du Parc et de la Grande Halle de la Villette. Une Micro-Folie est un équipement qui propose des contenus culturels pédagogiques ludiques et technologiques. Elle comprend un musée numérique constitué d'images en Haute Définition, d'œuvres majeures issues des collections de 12 établissements publics nationaux partenaires du projet.
+Permettre l’accès à la culture pour tous grâce à un déploiement de l’offre culturelle au plus près des territoires en soutenant les Micro-Folies dans le cadre du [réseau créé et animé par l'établissement public du Parc et de la Grande Halle de la Villette](https://lavillette.com/page/une-micro-folie-chez-vous_a215/1). Une Micro-Folie est un équipement qui propose des contenus culturels pédagogiques ludiques et technologiques. Elle comprend un musée numérique constitué d'images en Haute Définition, d'œuvres majeures issues des collections de 12 établissements publics nationaux partenaires du projet.
 
 {% embed url="https://youtu.be/L-1SywiKONM" %}
 
